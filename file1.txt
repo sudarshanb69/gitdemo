@@ -1,2 +1,3 @@
 hello
 more file1 contents
+Add content to file1 through master bug fix
